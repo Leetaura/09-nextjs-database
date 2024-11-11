@@ -34,3 +34,26 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+# Laporan Proses Seeding Database
+
+## Deskripsi
+Pada tugas ini, saya menjalankan proses seeding database untuk mengisi tabel-tabel yang diperlukan dalam aplikasi Next.js menggunakan Node.js. Proses ini menggunakan skrip `seed.js` untuk mengisi data dummy ke dalam tabel database yang terdiri dari `users`, `customers`, `invoices`, dan `revenue`.
+
+## Hasil Proses Seeding
+Berikut adalah hasil dari perintah `npm run seed` yang telah dijalankan pada terminal:
+
+- ## Tabel `users`: Berhasil dibuat dan berisi 1 pengguna.
+- ## Tabel `customers`: Berhasil dibuat dan berisi 10 pelanggan.
+- ## Tabel `invoice`: Berhasil dibuat dan berisi 15 invoice.
+- ## Tabel `revenue`: Berhasil dibuat dan berisi 12 data pendapatan.
+
+
+## Apa yang telah dipelajari?
+Melalui proses seeding ini, saya mempelajari beberapa hal berikut:
+1. **Pembuatan dan Pengisian Tabel Database**: Saya belajar cara membuat tabel di database dan mengisinya dengan data dummy menggunakan Node.js dan Sequelize.
+2. **Penggunaan Skrip Seeder**: Proses seeding menggunakan skrip `seed.js` memungkinkan untuk mengisi data secara otomatis ke dalam database, sehingga menghemat waktu dalam pengujian aplikasi.
+3. **Pengelolaan Data di Aplikasi Next.js**: Data yang telah disiapkan melalui seeding ini digunakan untuk menguji fitur-fitur CRUD dalam aplikasi Next.js yang sedang dikembangkan.
+
+
