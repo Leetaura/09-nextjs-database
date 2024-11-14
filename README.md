@@ -65,4 +65,15 @@ Melalui proses seeding ini, saya mempelajari beberapa hal berikut:
 - Menyimpan informasi sensitif di file `.env` dan menambahkannya ke `.gitignore` untuk keamanan.
 - Menggunakan SDK untuk mempermudah integrasi dengan basis data Postgres di Vercel.
 
+## soal 1
+
+### Langkah-langkah:
+1. Membuat repository GitHub menggunakan template starter code dari [09-nextjs-database](https://github.com/jti-polinema/09-nextjs-database).
+2. Membuat akun Vercel dan menghubungkannya dengan akun GitHub.
+3. Mengimpor repository dari GitHub ke Vercel dan melakukan deploy project.
+   
+### Pembelajaran:
+- Penggunaan template starter code mempermudah pembuatan project karena sudah memiliki setup awal.
+- Vercel menawarkan kemudahan dalam proses deploy, terutama dengan fitur continuous deployment dan pratinjau instan pada setiap pull request.
+- Menghubungkan GitHub dengan Vercel memberikan efisiensi dalam alur kerja, karena setiap push ke main branch langsung memperbarui aplikasi yang sudah di-deploy.
 
