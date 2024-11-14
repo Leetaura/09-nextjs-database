@@ -41,6 +41,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Deskripsi
 Pada tugas ini, saya menjalankan proses seeding database untuk mengisi tabel-tabel yang diperlukan dalam aplikasi Next.js menggunakan Node.js. Proses ini menggunakan skrip `seed.js` untuk mengisi data dummy ke dalam tabel database yang terdiri dari `users`, `customers`, `invoices`, dan `revenue`.
 
+
+## soal 3
 ## Hasil Proses Seeding
 Berikut adalah hasil dari perintah `npm run seed` yang telah dijalankan pada terminal:
 
@@ -55,5 +57,12 @@ Melalui proses seeding ini, saya mempelajari beberapa hal berikut:
 1. **Pembuatan dan Pengisian Tabel Database**: Saya belajar cara membuat tabel di database dan mengisinya dengan data dummy menggunakan Node.js dan Sequelize.
 2. **Penggunaan Skrip Seeder**: Proses seeding menggunakan skrip `seed.js` memungkinkan untuk mengisi data secara otomatis ke dalam database, sehingga menghemat waktu dalam pengujian aplikasi.
 3. **Pengelolaan Data di Aplikasi Next.js**: Data yang telah disiapkan melalui seeding ini digunakan untuk menguji fitur-fitur CRUD dalam aplikasi Next.js yang sedang dikembangkan.
+
+## soal 2
+
+### yang saya pelajari:
+- Mengerti pentingnya memilih region basis data yang sesuai untuk mengurangi latency.
+- Menyimpan informasi sensitif di file `.env` dan menambahkannya ke `.gitignore` untuk keamanan.
+- Menggunakan SDK untuk mempermudah integrasi dengan basis data Postgres di Vercel.
 
 
