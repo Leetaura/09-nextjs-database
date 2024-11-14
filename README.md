@@ -105,9 +105,21 @@ Melalui proses seeding ini, saya mempelajari beberapa hal berikut:
 
 **Implementasi Komponen Chart di React**:
    - Saya mempelajari cara mengintegrasikan dan menampilkan grafik menggunakan komponen `RevenueChart`. Komponen ini biasanya menerima data yang digunakan untuk membuat visualisasi pendapatan.
-   
+
 **Error Handling**:
    - Saya belajar cara memperbaiki error yang muncul, terutama jika data yang dikirim ke grafik tidak sesuai atau formatnya tidak valid. Hal ini membantu saya memahami pentingnya validasi data sebelum digunakan dalam chart.
 
 **Deploy ke Vercel**:
    - Saya melakukan deploy aplikasi ke Vercel setelah memastikan aplikasi berjalan dengan baik di lokal. Vercel memberikan proses deployment yang otomatis dan cepat.
+
+
+## soal 7
+
+**Mengambil Data Menggunakan Kueri SQL**:
+   - Saya belajar menggunakan kueri SQL untuk mengambil data 5 invoice terakhir yang diurutkan berdasarkan tanggal. Dengan menggunakan `ORDER BY invoices.date DESC LIMIT 5`, kueri ini mengurangi beban yang diperlukan untuk memproses data di memori.
+
+**Optimisasi Pengambilan Data**:
+   - Dalam pengambilan data, menggunakan kueri SQL langsung untuk memilih data yang diperlukan lebih efisien daripada mengambil semua data dan memilahnya menggunakan JavaScript. Hal ini mengurangi jumlah data yang dikirim dari server ke client dan meningkatkan performa aplikasi.
+
+**Menampilkan Gambar Profil**:
+   - Saya belajar cara mengatasi masalah tampilan gambar yang hilang dengan menambahkan aset gambar yang hilang ke folder `public/customers/`. Memastikan gambar berukuran kecil (<20KB) dapat membantu mempercepat waktu loading aplikasi.
