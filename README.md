@@ -83,3 +83,22 @@ Melalui proses seeding ini, saya mempelajari beberapa hal berikut:
 - Menggunakan fitur Query pada dashboard Vercel untuk mengeksekusi SQL query secara langsung.
 - Memahami penggunaan JOIN dalam SQL untuk menghubungkan dua tabel berdasarkan relasi kunci.
 - Menerapkan filter menggunakan WHERE untuk mendapatkan data spesifik.
+
+## soal 5
+
+ **React Event Handling**:
+   - Saya belajar cara menangani event seperti klik, input, dan submit menggunakan React. Penggunaan fungsi callback dalam menangani event sangat penting untuk mengontrol alur aplikasi.
+   
+**Penggunaan State di React**:
+   - Saya mempelajari cara mengelola state menggunakan `useState`. State memungkinkan komponen untuk merespons perubahan dan memperbarui UI secara dinamis.
+
+**Integrasi dengan Tailwind CSS**:
+   - Saya memahami bagaimana mengintegrasikan Tailwind CSS dalam komponen React untuk memberikan styling yang cepat dan efisien tanpa menulis CSS secara manual.
+   
+**Proses Debugging**:
+   - Saya menghadapi beberapa error saat pengembangan, terutama dalam penulisan event handler dan penggunaan state. Hal ini membantu saya meningkatkan keterampilan debugging dan pemahaman mengenai error handling di React.
+
+**Penggunaan Vite**:
+   - Saya belajar menggunakan Vite sebagai build tool yang ringan dan cepat, yang mempermudah proses pengembangan aplikasi React. 
+   
+             
