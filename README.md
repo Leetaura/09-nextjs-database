@@ -77,3 +77,9 @@ Melalui proses seeding ini, saya mempelajari beberapa hal berikut:
 - Vercel menawarkan kemudahan dalam proses deploy, terutama dengan fitur continuous deployment dan pratinjau instan pada setiap pull request.
 - Menghubungkan GitHub dengan Vercel memberikan efisiensi dalam alur kerja, karena setiap push ke main branch langsung memperbarui aplikasi yang sudah di-deploy.
 
+## soal 4 
+
+### Pembelajaran:
+- Menggunakan fitur Query pada dashboard Vercel untuk mengeksekusi SQL query secara langsung.
+- Memahami penggunaan JOIN dalam SQL untuk menghubungkan dua tabel berdasarkan relasi kunci.
+- Menerapkan filter menggunakan WHERE untuk mendapatkan data spesifik.
