@@ -100,5 +100,14 @@ Melalui proses seeding ini, saya mempelajari beberapa hal berikut:
 
 **Penggunaan Vite**:
    - Saya belajar menggunakan Vite sebagai build tool yang ringan dan cepat, yang mempermudah proses pengembangan aplikasi React. 
+
+## soal 6 
+
+**Implementasi Komponen Chart di React**:
+   - Saya mempelajari cara mengintegrasikan dan menampilkan grafik menggunakan komponen `RevenueChart`. Komponen ini biasanya menerima data yang digunakan untuk membuat visualisasi pendapatan.
    
-             
+**Error Handling**:
+   - Saya belajar cara memperbaiki error yang muncul, terutama jika data yang dikirim ke grafik tidak sesuai atau formatnya tidak valid. Hal ini membantu saya memahami pentingnya validasi data sebelum digunakan dalam chart.
+
+**Deploy ke Vercel**:
+   - Saya melakukan deploy aplikasi ke Vercel setelah memastikan aplikasi berjalan dengan baik di lokal. Vercel memberikan proses deployment yang otomatis dan cepat.
